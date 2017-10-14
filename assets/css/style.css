@@ -1,0 +1,80 @@
+body {
+	background-image: url("../images/texture.jpg");
+	background-repeat: repeat;
+	background-color: lightgray;
+}
+
+.container {
+	margin: 10px;
+}
+.crystalBox {
+	height: 98px;
+	margin-right: 10px;
+}
+
+#headingBox {
+	background-color: darkorange;
+	color: white;
+	padding: 20px;
+}
+#instructionsBox {
+	background-color: beige;
+	color: green;
+	font-weight: bold;
+	padding: 20px;
+
+}
+#randomNumberBox {
+	background-color: green;
+	color: purple;
+	margin-right: 10px;
+	padding-top: 10px;	
+}
+#winsLossesBox {
+	background-color: aqua;
+	padding: 10px;
+
+}
+#crystalOne {
+	background-image: url(../images/cushion.svg);
+  	background-repeat: no-repeat;
+  	background-size: contain;
+  	background-color: violet;
+	color: white;
+}
+#crystalTwo {
+	background-image: url(../images/diamond.svg);
+  	background-repeat: no-repeat;
+  	background-size: contain;
+  	background-color: red;
+	color: white;
+
+}
+#crystalThree {
+	background-image: url(../images/emerald.svg);
+  	background-repeat: no-repeat;
+  	background-size: contain;
+  	background-color: lightblue;
+	color: white;
+
+}
+#crystalFour {
+	background-image: url(../images/marquis.svg);
+  	background-repeat: no-repeat;
+  	background-size: contain;
+  	background-color: yellow;
+	color: white;
+
+}
+#totalScoreHeading {
+	background-color: teal;
+	color: white;
+	padding: 20px;
+
+}
+#totalScoreBox {
+	background-color: teal;
+	color: white;
+	padding: 20px;
+
+}
